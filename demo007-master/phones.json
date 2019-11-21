@@ -1,0 +1,206 @@
+ [
+    {
+        "smart": [
+            {
+                "number": "010",
+                "digits": "+ 6"
+            },
+            {
+                "number": "015",
+                "digits": "+ 6"
+            },
+            {
+                "number": "016",
+                "digits": "+ 6"
+            },
+            {
+                "number": "069",
+                "digits": "+ 6"
+            },
+            {
+                "number": "070",
+                "digits": "+ 6"
+            },
+            {
+                "number": "081",
+                "digits": "+ 6"
+            },
+            {
+                "number": "086",
+                "digits": "+ 6"
+            },
+            {
+                "number": "087",
+                "digits": "+ 6"
+            },
+            {
+                "number": "093",
+                "digits": "+ 6"
+            },
+            {
+                "number": "096",
+                "digits": "+ 7"
+            },
+            {
+                "number": "098",
+                "digits": "+ 6"
+            }
+        ]
+    },
+    {
+        "cellcard": [
+            {
+                "number": "023",
+                "digits": "+ 7"
+            },
+            {
+                "number": "011",
+                "digits": "+ 6"
+            },
+            {
+                "number": "012",
+                "digits": "+ 6, + 7"
+            },
+            {
+                "number": "014",
+                "digits": "+ 6"
+            },
+            {
+                "number": "017",
+                "digits": "+ 6"
+            },
+            {
+                "number": "061",
+                "digits": "+ 6"
+            },
+            {
+                "number": "076",
+                "digits": "+ 7"
+            },
+            {
+                "number": "077",
+                "digits": "+ 6"
+            },
+            {
+                "number": "078",
+                "digits": "+ 6"
+            },
+            {
+                "number": "079",
+                "digits": "+ 6"
+            },
+            {
+                "number": "085",
+                "digits": "+ 6"
+            },
+            {
+                "number": "089",
+                "digits": "+ 6"
+            },
+            {
+                "number": "092",
+                "digits": "+ 6"
+            },
+            {
+                "number": "095",
+                "digits": "+ 6"
+            },
+            {
+                "number": "099",
+                "digits": "+ 6"
+            }
+        ]
+    },
+    {
+        "metfone": [
+            {
+                "number": "023",
+                "digits": "+ 7"
+            },
+            {
+                "number": "031",
+                "digits": "+ 7"
+            },
+            {
+                "number": "060",
+                "digits": "+ 6"
+            },
+            {
+                "number": "066",
+                "digits": "+ 6"
+            },
+            {
+                "number": "067",
+                "digits": "+ 6"
+            },
+            {
+                "number": "068",
+                "digits": "+ 6"
+            },
+            {
+                "number": "071",
+                "digits": "+ 7"
+            },
+            {
+                "number": "088",
+                "digits": "+ 7"
+            },
+            {
+                "number": "090",
+                "digits": "+ 6"
+            },
+            {
+                "number": "097",
+                "digits": "+ 7"
+            }
+        ]
+    },
+    {
+        "seatel": [
+            {
+                "number": "018",
+                "digits": "+ 6"
+            },
+            {
+                "number": "0189",
+                "digits": "+ 6"
+            }
+        ]
+    },
+    {
+        "cootel": [
+            {
+                "number": "038",
+                "digits": "+ 7"
+            }
+        ]
+    },
+    {
+        "qb": [
+            {
+                "number": "013",
+                "digits": "+ 6"
+            },
+            {
+                "number": "080",
+                "digits": "+ 6"
+            },
+            {
+                "number": "083",
+                "digits": "+ 6"
+            },
+            {
+                "number": "084",
+                "digits": "+ 6"
+            }
+        ]
+    },
+    {
+        "kingtel": [
+            {
+                "number": "039",
+                "digits": "+ 7"
+            }
+        ]
+    }
+]
